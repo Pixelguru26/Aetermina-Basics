@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "minecraft:items/gold_sword"
+    "layer0": "minecraft:item/golden_sword"
   },
   "display": {
     "thirdperson_righthand": {

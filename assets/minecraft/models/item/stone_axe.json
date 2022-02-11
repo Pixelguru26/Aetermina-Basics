@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "minecraft:item/stone_sword"
+    "layer0": "minecraft:item/stone_axe"
   },
   "display": {
     "thirdperson_righthand": {
